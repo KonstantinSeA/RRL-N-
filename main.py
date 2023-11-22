@@ -5,7 +5,7 @@ def main():
 
 
 def itsu():
-    print('well')
+    print('Интересно оч')
 
 
 if __name__ == '__main__':
