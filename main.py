@@ -2,6 +2,7 @@ def main():
     print('Main')
     print('K...')
     itsu()
+    print(int(0))
 
 
 def itsu():
